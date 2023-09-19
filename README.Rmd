@@ -37,15 +37,13 @@ remotes::install_github("fontikar/ohwhaley")
 `ohwhaley` contains one function only. `say()` will echo a randomly chosen whale-themed phrase for your enjoyment.
 
 ```{r example}
-library(ohwhaley)
+#library(ohwhaley)
  
-say() 
+#say() 
 ```
 
 Alternatively, you can supply your own phrase
 
 ```{r, customise}
-say("I'm beached as bro!!!")
+#say("I'm beached as bro!!!")
 ```
-
-
